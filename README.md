@@ -1,6 +1,6 @@
-# salaam
+# Al Salaam
 
-A new Flutter project.
+Al Salaam Transportation App
 
 ## Getting Started
 
